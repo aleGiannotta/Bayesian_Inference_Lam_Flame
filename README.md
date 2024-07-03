@@ -1,4 +1,8 @@
 # Bayesian_Inference_Lam_Flame
+
+The MATLAB code will be uploaded soon.
+
+ABSTRACT
 We perform twenty experiments on an acoustically-forced laminar premixed Bunsen flame and
 assimilate high-speed footage of the natural emission into a physics-based model containing
 seven parameters. The experimental rig is a ducted Bunsen flame supplied by a mixture of
